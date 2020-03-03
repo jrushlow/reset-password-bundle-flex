@@ -1,0 +1,5 @@
+{
+  "bundles": {
+    "SymfonyCasts\\Bundle\\ResetPassword\\SymfonyCastsResetPasswordBundle": ["all"]
+  }
+}
